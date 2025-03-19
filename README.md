@@ -4,4 +4,4 @@ COMPANY:CODTECH IT SOLUTIONS NAME:DEVIKA G INTERN ID:CT08WLW DOMAIN:POWER BI DUR
 
 Task 1: CREATE A SALES DASHBOARD
 
-![Image](https://github.com/user-attachments/assets/11d23d1e-6a42-46f0-bf33-56fcefcb114d)
+![Image](https://github.com/user-attachments/assets/fcd13bb8-3b25-477e-a82a-5683d25bda58)
